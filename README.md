@@ -1,2 +1,2 @@
-# CSS-1
+# CSS
 Creating Resume Using Html and Css
